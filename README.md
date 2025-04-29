@@ -6,8 +6,6 @@
 ## DESCRIPTION
 
 	- Configurar Rede
-	- Configurar no dominio 
-	- Configurações de disco
  	- Firewall
 
 
@@ -21,5 +19,9 @@
 Get-NetAdapter
 
 ## Firewall
-	# desativar firewall
+	# para ativar ou desativar firewall para as redes de domínio, pública ou privada
+	# desativar
 	Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
+
+	# ativar
+	Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled True
