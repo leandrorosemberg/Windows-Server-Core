@@ -4,13 +4,13 @@
     
 ## DESCRIPTION
 
-	- Renomear servidor
- 	- Configurar Rede
- 	- Firewall
-  	- Ingressar no Domínio
-   	- Ativação Role e Tools HyperV
-    	- Configurações de disco
-     	- Timezone GMT-3
+	  - Renomear servidor
+ 	  - Configurar Rede
+ 	  - Firewall
+  	  - Ingressar no Domínio
+   	  - Ativação Role e Tools HyperV
+   	  - Configurações de disco
+	  - Timezone GMT-3
 
 ## Renomear Servidor
 
