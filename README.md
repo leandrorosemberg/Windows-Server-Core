@@ -10,8 +10,7 @@
 	03 - Configurar no dominio 
 	04 - Ativar Features, Roles e FOD (Features on Demand)
 	05 - Configurações de disco
-	06 - Instalação APP (SCCM, Zabbix e Netbackup Client)
-	07 - Ajustes finais
+
 
 .NOTES
     Autor: Leandro Melo Rosemberg
