@@ -5,11 +5,10 @@
 
 .DESCRIPTION
 
-	01 - Instalação Windows Server Core
-	02 - Configurar Rede
-	03 - Configurar no dominio 
-	04 - Ativar Features, Roles e FOD (Features on Demand)
-	05 - Configurações de disco
+	Configurar Rede
+	Configurar no dominio 
+	Ativar Features, Roles e FOD (Features on Demand)
+	Configurações de disco
 
 
 .NOTES
