@@ -7,8 +7,8 @@
 
 	- Configurar Rede
 	- Configurar no dominio 
-	- Ativar Features, Roles e FOD (Features on Demand)
 	- Configurações de disco
+ 	- Firewall
 
 
 .NOTES
@@ -19,3 +19,7 @@
 
 ## Configurar Rede
 Get-NetAdapter
+
+## Firewall
+	# desativar firewall
+	Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
